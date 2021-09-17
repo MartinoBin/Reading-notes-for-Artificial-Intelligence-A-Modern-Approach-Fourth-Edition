@@ -15,3 +15,23 @@ Some references seem not easy to find at the end of the book. For example, this 
 
 Around 10 hours. 
 
+
+
+Weekly summary report 2
+The reading task for this week is 1.3 The History of Artificial Intelligence. (and maybe 1.4 and 1.5 )
+
+The introduction goes from Marvin Minsky (1969) and John McCarthy (1971) to Geoffrey Hinton's team who won the 2012 ImageNet competition. The early milestones have been mentioned such as Hebbian learning and SNARCI in the 1950s. Then the great expectations around the 1950s to 1960s happened and then slowed down and found out there were realities that the researchers had to face, which lead to the realization that AI study still has a lot of limitations. 
+
+This leads to the discussion of so-called 'winters'. As far as I think, there are no so-called two or three 'winters', if view it from an even longer time scale. The enthusiasm and fade happened all the time and probably in all the subjects. I happened to know that in around the 1970s, a bunch of British language researchers, or grammarians, gathered in London and started a project to make a language database, which is later called corpus or corpora, and then it become the foundation of the subject that today we called corpus linguistics. It is also around this enthusiasm period, they thought that the language database can do everything, particularly in studying English grammar and syntax.
+
+This fact makes it very interesting to read that on page p.41 Schank says 'there is no such thing as syntax.' Because Norm Chomsky also said similar words in terms of corpus linguistics: ' There is no such thing called corpus linguistics.'  He made this comment after the enthusiasm grammarians have claimed that it was the 'spring' of corpus linguistics as a subject. 
+
+I spent part of my time doing quiz and getting myself more familiar with the cases mentioned in the chapter. Comparing with 1.1 and 1.2, this 1.3 contains much fewer new terms. 1.4 gives some applications of AI today, which most of them can be searched on youtube. 1.5 discusses the risk and benefits of AI. Two questions that need to keep in mind are the Gorilla problem and King Midas problem. 
+
+I'm still thinking about the meaning of this sentence:
+
+"The fact that a program can find a solution in principle does not mean that the program contains any of the mechanisms needed to find it in practice. " p.39
+
+ I don't understand what does this '...needed to find it in practice.' means.  
+
+Roughly 5 hours.
