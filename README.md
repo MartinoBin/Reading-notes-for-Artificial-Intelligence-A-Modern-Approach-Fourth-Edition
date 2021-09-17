@@ -35,3 +35,19 @@ I'm still thinking about the meaning of this sentence:
  I don't understand what does this '...needed to find it in practice.' means.  
 
 Roughly 5 hours.
+
+
+Weekly summary report 3
+The reading for this week is chapter 2 Intelligent agents. From 2.1 to 2.4, basically the entire chapter. I feel this is still an introduction to AI following the pace of the previous chapter. It covers the structure of agents and the nature of environments. For me, the first half part (2.1 to 2.3) is fine to follow, but the second half (2.4, I am using the 4th edition ) is a bit difficult to follow. 
+
+At the beginning of the chapter, 2.1 Agents and Environments introduced how the relation between agents and environments can be built through sensors and actuators. It used a clear example, the vacuum cleaner world to demonstrate how the sensors and actuators work in order to complete the task. It leads to a question: What is the right way to fill out the task area? The picture on page 56 [Figure 2.2] gives a clear and simple picture of the concept.
+
+Chapter 2.2 mainly talks about performance measures and rationality. An important point that I learned from this chapter is '' that rationality is not the same as perfection" (p.59). An interesting case is mentioned at the bottom of page 58. If a man walks through the empty street in order to say hello to a friend, and then was flattened by a dropped airline cargo door, is this because he was too irrational? (This example is partly based on real news back to 1989 ). 
+
+Chapter 2.3 The Nature of Environments introduced different task environments. In order to design a good and suitable agent, we need to figure out what kind of environments the tasks will be carried out with. For example, it is fully observable or partially observable, is it single agent or multi-agent?  Some examples are given in the form of tables from Figure 2.4 to 2.6. Combining with the quiz assignment, I can feel that I am getting familiar with these concepts and gradually began to distinguish them by putting them into examples. 
+
+Chapter 2.4 is a bit difficult for me. I feel the style of writing has just changed, or the contents in this chapter are not really extended in a way that is combined with enough real-life examples. It introduced different agents, simple reflex agents, model-based reflex agents, goal-based agents, utility-based agents. The charts [from Figure 2.9-2.15] are similar to each other at the first glance. The concepts are abstractive, especially when it comes to such words as condition-action rules, goals, utility, learning elements. What exactly are they if put them into a real environment or real case? It might take me more time to figure this out. 
+
+The lecture video, which mentioned problem-solving, seems not in this weeks materials. I didn't manage to find any content involved with problem-solving. My feeling is that this is for chapter 3, which I haven't read.  
+
+Roughly 6 hours
